@@ -104,6 +104,16 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-a427b1) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, other languages** — 9 more language builds: 中文 `doubao-seedance-1-5-pro-api-cn` · Deutsch [doubao-seedance-1-5-pro-api-de](https://github.com/jrn50qhjibv4/doubao-seedance-1-5-pro-api-de) · Español [doubao-seedance-1-5-pro-api-es](https://github.com/j1684-htxd147q/doubao-seedance-1-5-pro-api-es) · Français [doubao-seedance-1-5-pro-api-fr](https://github.com/k2t3e2-a/doubao-seedance-1-5-pro-api-fr) · Bahasa [doubao-seedance-1-5-pro-api-id](https://github.com/vi21di4j/doubao-seedance-1-5-pro-api-id) · 日本語 [doubao-seedance-1-5-pro-api-ja](https://github.com/kizlin5j9/doubao-seedance-1-5-pro-api-ja) · 한국어 [doubao-seedance-1-5-pro-api-ko](https://github.com/drvscj09me9h/doubao-seedance-1-5-pro-api-ko) · Português [doubao-seedance-1-5-pro-api-pt](https://github.com/e9rto/doubao-seedance-1-5-pro-api-pt) · Русский [doubao-seedance-1-5-pro-api-ru](https://github.com/wdnfucs9xu/doubao-seedance-1-5-pro-api-ru)
+- **More models in this language** — [midjourney-api-gateway](https://github.com/apimartxc3iskw/midjourney-api-gateway) · [gemini-2-5-flash-image-preview-api-gateway](https://github.com/mcqdlebg/gemini-2-5-flash-image-preview-api-gateway) · [nano-banana-api-gateway](https://github.com/gix2kust/nano-banana-api-gateway) · [gemini-3-1-flash-image-preview-api-gateway](https://github.com/nn6jtthao8/gemini-3-1-flash-image-preview-api-gateway) · [nano-banana-2-api-gateway](https://github.com/u9mdw3pt594q2r/nano-banana-2-api-gateway) · [gemini-3-pro-image-preview-api-gateway](https://github.com/uqu9q/gemini-3-pro-image-preview-api-gateway)
+- **Topic hubs** — every build of this model, all languages: [doubao-seedance-1-5-pro](https://github.com/topics/doubao-seedance-1-5-pro) · [doubao-seedance-1-5-pro-api](https://github.com/topics/doubao-seedance-1-5-pro-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
